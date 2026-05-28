@@ -22,10 +22,15 @@ Precisamente las pruebas de este proyecto verifican estas funciones de la aplica
 
 ###### qa-project-Urban-Grocers-app-es/
 ├── configuration.py
+
 ├── data.py
+
 ├── sender_stand_request.py
+
 ├── create_kit_name_kit_test.py
+
 ├── README.md
+
 └── .gitignore  
 
 ---
